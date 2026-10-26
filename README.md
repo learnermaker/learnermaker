@@ -1,4 +1,4 @@
-# Hi, I'm Jim 👋
+# Hi, I'm Jim Seelan👋
 
 **Innovation evangelist who builds.** I turn fuzzy problems into working prototypes: AI agents, MCP servers, physical AI, and the design thinking that decides what's worth building.
 
